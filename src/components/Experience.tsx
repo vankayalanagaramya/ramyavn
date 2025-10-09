@@ -16,7 +16,7 @@ const Experience = () => {
     },
     {
       title: "Data Scientist",
-      company: "ValueLabs, Abu Dhabi",
+      company: "Saiana Technologies",
       period: "2022 - 2023",
       description: "Developed personal finance solutions and credit card analytics systems.",
       highlights: [
